@@ -1,0 +1,4 @@
+Nombre,Precio,Cantidad
+Cuaderno,17.50,7
+Regla,6.0,12
+Tijera,12.0,8
